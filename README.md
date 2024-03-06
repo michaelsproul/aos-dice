@@ -42,3 +42,5 @@ Probability of dying while trying to cast _Merciless Blizzard_. This includes th
 of dying due to a miscast, and the probability of dying after casting successfully.
 
 ![](./imgs/blizzard_death_total.png)
+
+Full working for the above graphs can be found here: https://docs.google.com/spreadsheets/d/1F7rOtOoK0gopx8QReRkw0mT89cm22F5FeRm4RIYQxLE
