@@ -21,3 +21,24 @@ If you have Haskell `stack` installed you can do:
 ```
 stack repl
 ```
+
+## Merciless Blizzard
+
+Probability of different outcomes when trying to cast _Merciless Blizzard_ with different numbers of
+dice. Number of dice includes 2 casting dice + primals.
+
+![](./imgs/blizzard_outcomes.png)
+
+---
+
+Probability of dying after successfully casting _Merciless Blizzard_. This sums across the
+probabilities for dying after rolling one 1, two 1s, three 1s, four 1s.
+
+![](./imgs/blizzard_death_after_cast.png)
+
+---
+
+Probability of dying while trying to cast _Merciless Blizzard_. This includes the probability
+of dying due to a miscast, and the probability of dying after casting successfully.
+
+![](./imgs/blizzard_death_total.png)
